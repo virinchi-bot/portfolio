@@ -6,6 +6,9 @@ import Navbar from "@/components/layout/Navbar";
 const BASE_URL = "https://portfolio-saivirinchi.vercel.app";
 
 export const metadata: Metadata = {
+  verification: {
+  google: "4-QywuDRSafKgQEkW6YL_vqO6muEX022jao_PcJ7mt0",
+},
   metadataBase: new URL(BASE_URL),
   title: {
     default: "Gudla SaiVirinchi — Vibecoder & Creative Developer",
